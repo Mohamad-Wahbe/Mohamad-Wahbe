@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Frontend Developer</h2>
+<p align="center">🎓 I'm a Computer Engineering student and a Junior Frontend Developer.  <br>🌱 Passionate about learning, creating clean UI, and building responsive web experiences.</p>
 
 ###
 
